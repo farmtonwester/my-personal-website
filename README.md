@@ -1,1 +1,2 @@
 # My Personal Website
+This is my first website creation, thank you for taking the time to check it out! My goal was to implement at least a few of the features that we learned throughout the Software Engineering Prep curriculum. 

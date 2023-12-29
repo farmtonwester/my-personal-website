@@ -1,6 +1,6 @@
 body {
-    background: forestgreen;
-    color: aliceblue
+    background: #F5DFBB;
+    color: #562C2C;
 }
 .centered {
     text-align: center;
@@ -12,3 +12,15 @@ img {
     margin-right: auto;
     display: block;
 }
+
+a:first-of-type {
+    margin-inline-end: 10px;
+}
+
+a {
+    color: #0E9594;
+}
+a:visited {
+    color: #F2542D;
+}
+

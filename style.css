@@ -2,7 +2,7 @@ body {
     background: forestgreen;
     color: aliceblue
 }
-h1 {
+.centered {
     text-align: center;
 }
 
@@ -12,6 +12,6 @@ img {
     margin-right: auto;
     display: block;
 }
-#name {
+/* #name {
     text-align: center;
-}
+} */
